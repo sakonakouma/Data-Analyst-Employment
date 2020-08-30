@@ -1,5 +1,3 @@
-# Data-Analyst-Employment
-
 (formatted write up is in working directory for easier reading)
 
 Data Analyst Job Search
